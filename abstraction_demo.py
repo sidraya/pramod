@@ -1,5 +1,4 @@
 
-# new change code
 
 from abstract_class import Vehicale
 class Bike(Vehicale):
